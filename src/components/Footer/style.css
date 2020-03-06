@@ -1,0 +1,44 @@
+.footer {
+    background-color: skyblue;
+    font-size: 14px;
+    /* background: #6956af; */
+    height: 40px;
+    position: relative;
+    color: rgb(7, 46, 153);
+    overflow: auto;
+    clear: left
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* background: #5138a1; */
+    background-color: skyblue;
+    padding: 8px;
+    font-weight: 600;
+}
+
+article, aside, footer, header, nav, section {
+    display: block;
+}
+
+
+footer {
+    display: block;
+}
+
+div {
+    display: block;
+}
+
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "clicked": false,
+    "name": "Gookey",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_grookey_2x.png"
+  },
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "Gossifleur",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_gossifleur_2x.png"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "Drednaw",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_drednaw_2x.png"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "Eiscue",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_eiscue_2x.png"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "Zarude",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_zarude_2x.png"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "Dizzile",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_drizzile_2x.png"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "Corsola",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_corsola_2x.png"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "Stonejourner",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_stonjourner_2x.png"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "Ponyta",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_ponyta_2x.png"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "Butterfree",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_gbutterfree_2x.png"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "Gigantamax",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_gtoxtricity_2x.png"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "Inteleon",
+    "image": "https://swordshield.pokemon.com/assets/img/articles/pokemon_inteleon_2x.png"
+  }
+]
