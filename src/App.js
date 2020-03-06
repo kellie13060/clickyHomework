@@ -10,9 +10,6 @@ let score = 0;
 let name = "";
 let clickedArray = [];
 let notification = "Click on a pokemon to find out what it is...but only 1 time each!";
-console.log("initial items array: ")
-console.log(items);
-console.log("=======================================");
 
 function shuffleArray(items) {
   let i = items.length - 1;
@@ -51,7 +48,7 @@ class App extends Component {
         this.setState({ count: 0});
       } else {
        
-        notification = "ID: "+ name; 
+        notification = "Pokemon Name: "+ name; 
         clickedArray.push(name);       
         this.setState({ count: this.state.count + 1 });
         score = this.state.count +1;
