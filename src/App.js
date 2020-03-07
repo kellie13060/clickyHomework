@@ -9,7 +9,7 @@ let hiScore = 0;
 let score = 0;
 let name = "";
 let clickedArray = [];
-let notification = "Click on a pokemon to find out what it is...but only 1 time each!";
+let notification = "Click on a pokemon to find out what its name is...but only 1 time or you lose";
 
 function shuffleArray(items) {
   let i = items.length - 1;
@@ -33,7 +33,7 @@ class App extends Component {
     score = 0;
     name = "";
     clickedArray = [];
-    notification = "Click on a pokemon to find out what it is...but only 1 time each!";
+    notification = "Click on a pokemon to find out what its name is...but only 1 time or you lose";
     // this.setState({items: items});
     this.forceUpdate();
   }
