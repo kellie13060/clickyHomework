@@ -1,10 +1,10 @@
 .footer {
-    background-color: skyblue;
-    font-size: 14px;
-    /* background: #6956af; */
-    height: 40px;
+    background-color: #D45C3F;
+    font-size: 20px;
+    font-family: "Impact, Charcoal, sans-serif";
+    height: 80px;
     position: relative;
-    color: rgb(7, 46, 153);
+    color: rgb(240, 242, 245);
     overflow: auto;
     clear: left
 }
@@ -14,8 +14,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    /* background: #5138a1; */
-    background-color: skyblue;
+    background-color: #D45C3F;
     padding: 8px;
     font-weight: 600;
 }
